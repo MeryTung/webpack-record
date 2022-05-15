@@ -1,4 +1,4 @@
-###  01-source-map
-###  02-multi-entry
-###  03-split-chunks
-###  04-build-optionzation
+###  1. source-map
+###  2. multi-entry
+###  3. split-chunks
+###  4. build-optionzation
