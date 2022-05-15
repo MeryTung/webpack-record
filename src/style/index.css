@@ -1,0 +1,32 @@
+
+
+
+@font-face {
+    font-family: "iconfont"; /* Project id 1968423 */
+    src: url('../fonts/iconfont.eot?t=1652284852581'); /* IE9 */
+    src: url('../fonts/iconfont.eot?t=1652284852581#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAQ4AAsAAAAACIQAAAPpAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHFQGYACDMgqDeINFATYCJAMUCwwABCAFhGcHYRuAB8iegW0bm7xISpcuKVWfXDz8t9//9pmZe9/96s2lisbvQEjElwjJklglFQuJ1SGyiHjo/+/btJdQMSFVoamYU5PIh9LokF9xsqJyc7HTzp522wABZn/LmPrgcvrTP4FrA8Caw4oHPth7QIGNtSyQNG5bop4KbOOjMvUcgU6bsohPiyposGvLsBa8mLCYQVoabY6VgYVoVVpYoTHUfccW8Q5MSc/FNwC8De8f/4AKC5Iqsxa5WqESznwa+zFBCJMCyN/BZwjUPqFCxurO7PGo3dtGxNlVhM66tIlDoH/XSNLPsU/TP836MTE5CaM8m77T/sMjS4ogalZxNziEptyczBWS+TldSOLnLCGF/xPyd9mkAp1o4T3wFeTszWQhiWlLLyd/V7sRm8ci46NH0gNROwAef7shtZpzAsSPT1rbv7zt37Z2w65jmDBaW6fOFysMzcu2WNnlL48fi0RPkldu3QnCvWVbrW1fbmXZlRu3HXJRLhNc0XLruds3uA01np7T1PjIpubQDyih4WFz67nl16sbls91X7lGPqfaZWx6TJq5pBE6pBXMCuP2Nc1bhVkOm5O4JNTSKS8hNKwwN9TkIF8jTQ8OyD2S3+/D+Ex3r2B+8IL60mlJ288t/W03nSDO51aKHP9vLpkWnWMHbyaq0iObqfS0oLN/G11SvOs7IxylTiMw8TbpdacW6voE/T3su7fXMzuXEednkN4vPnlyY/RogTKhKa6ejm+krjYmBNzxNNV0lWo00XHZuZX5nw+Gnzw5y2+Qs3ov0MURhWFhheHFWxwRRImrOHwLJCUkgogYGAFv1zc33wiY7bjXaVbgjUYsBoMAd4nzBAVA+k+ItM6IY0QgAPmZOOdv/40Pu5lvu+wz/lhYF/Bj8wJpGL1jAuNzjURv6Z+sa+9JW3QxdKWu0nULekdnCJD4K8v+1eCgV/P4h0DqDo0oI0hapiBrTKOFXIZKl22oNfag04rCyV2G6BGidGDeVAZCv62Q9PoMWb/LaCEfQ2XUZ6j1+wedHmQ7X5f5UOTzSIaRkpQPkZxCp2UcAw7rrUNsn1rGV6UaEW/gKEHGx8QVC8VIi/gpBhj6WQpjhmR4nYYs4jdDarWO1PO6XqTAMT0Y69NiY5m6i8QodBrIx0NkMESJJDeExFHQ0WJ8epx/vjoIq4+aDN8TbczyDDiqnxQvRlwPtFir7VV1J40N+rEoGMawnRg8HQ1Ske5G1HZWh6Svb9ULUcBi9IxI66WJBR3TVxuzvl7zgWugkzVHFSlylKii1nrIybTDztr2Mp7XDUSrEYOj5Tq10syAZLyix6lKpXSbaaMZTq3mtCwAAAAA') format('woff2'),
+         url('../fonts/iconfont.woff?t=1652284852581') format('woff'),
+         url('../fonts/iconfont.ttf?t=1652284852581') format('truetype'),
+         url('../fonts/iconfont.svg?t=1652284852581#iconfont') format('svg');
+  }
+  
+  .iconfont {
+    font-family: "iconfont" !important;
+    font-size: 80px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-dianzan:before {
+    content: "\ec7f";
+  }
+/* 
+//   body {
+//     .avator {
+//         width:300px;
+//         height:300px;
+//         transform: translateX(100px);
+//     }
+// } */
